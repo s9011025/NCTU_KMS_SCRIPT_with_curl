@@ -10,4 +10,4 @@
    d. 執行Office 2013更新 (將偵測路徑，若沒有安裝則跳過)
 3. 執行注意
    請以系統管理員權限執行
-   
+   ![run_as_admin](https://github.com/s9011025/NCTU_KMS_SCRIPT_with_curl/blob/master/run_as_admin.png)
