@@ -1,0 +1,33 @@
+windows 10 KMS client key (KMS客戶端公用序號)
+
+W269N-WFGWX-YVC9B-4J6C9-T83GX
+
+使用時機說明(與上列正好相反)
+
+若您的學校單位要使用大量授權啟用，但重灌電腦時，不小心用一般版本的ISO重灌。
+
+這時您的單位提供的大量授權啟用批次檔會無效。
+
+請依以下步驟處理
+
+1.先使用您單位提供的大量授權啟用批次檔啟用一次，此時會啟用失敗，並出現0XC004F034錯誤訊息。
+
+2.改用WINDOWS內建的啟用方式，電腦要求輸入序號時，改輸入上述序號後，就可以啟用成功。
+
+3.若不放心，再改用單位提供的大量授權啟用批次檔重新啟用一次，還是可以成功。
+
+(以上方法僅能在單位內部使用，離開單位就無效了哦)
+
+底下連結有所有WINDOWS各版本的KMS CLIENT KEY
+
+修正 Windows 10 啟用錯誤 0x803F7001
+
+slmgr.vbs -ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+
+slmgr.vbs -dlv
+
+
+https://kmserv.nctu.edu.tw/login-email.php
+
+
+http://dcpswp.dcs.tn.edu.tw/sammy/?p=1514.KMS
